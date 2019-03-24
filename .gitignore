@@ -1,0 +1,6 @@
+
+aws/.terraform.tfstate.lock.info
+aws/.terraform/plugins/darwin_amd64/lock.json
+aws/terraform.tfstate.backup
+azure/.terraform.tfstate.lock.info
+azure/.terraform/plugins/darwin_amd64/lock.json
